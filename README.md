@@ -1,2 +1,4 @@
 # hello-world
-repository di presentazione e test
+Questo repository è privato, dunque parlo da solo o, al massimo, con tre collaboratori...
+
+Comunque, nulla da dichiarare!
