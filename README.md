@@ -1,5 +1,3 @@
 # hello-world
 
-Questo repository è privato, dunque parlo da solo o, al massimo, con tre collaboratori...
-
-Comunque, nulla da dichiarare!!!
+Questo repository è privato e contiene, per ora in modo disordinato, codice mio e preso da altri..
